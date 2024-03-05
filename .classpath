@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="navegador internet/" kind="src" path="dio-trilha-java-desafio-poo/src"/>
+	<classpathentry kind="src" path="dio-trilha-java-desafio-poo/src/navegador internet"/>
+	<classpathentry kind="output" path="dio-trilha-java-desafio-poo/bin"/>
+</classpath>
